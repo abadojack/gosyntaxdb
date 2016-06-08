@@ -1,8 +1,6 @@
 # gosyntaxdb
 
-[![Build Status](https://travis-ci.org/abadojack/gosyntaxdb.svg?branch=master)](https://travis-ci.org/abadojack/gosyntaxdb)
-
-[![GoDoc](https://godoc.org/github.com/abadojack/gosyntaxdb?status.png)](http://godoc.org/github.com/abadojack/gosyntaxdb)
+[![Build Status](https://travis-ci.org/abadojack/gosyntaxdb.svg?branch=master)](https://travis-ci.org/abadojack/gosyntaxdb)  [![GoDoc](https://godoc.org/github.com/abadojack/gosyntaxdb?status.png)](http://godoc.org/github.com/abadojack/gosyntaxdb)
 
 gosyntaxdb is a simple, transparent Go package for accessing the [SyntaxDB](https://syntaxdb.com/api/v1) API.
 
