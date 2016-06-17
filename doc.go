@@ -18,8 +18,8 @@
 //Cetain endpoints allow separate optional parameter; if desired, these can be passed as the final parameter.
 //
 //  v := url.Values{}
-//  v.Set("sort", "-1")
-//  language, err := gosyntaxdb.GetLanguage("go", v)
+//  v.Set("sort", "-language_version")
+//  language, err := gosyntaxdb.GetLanguages(v)
 //
 //Endpoints
 //
