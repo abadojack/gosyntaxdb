@@ -25,7 +25,7 @@ func Test_GetConcepts(t *testing.T) {
 		t.Fatal("GetConcepts", err)
 	}
 
-	concept, err := GetConcept(concepts[r.Intn(len(concepts)-1)].ID, nil)
+	concept, err := GetConcept(concepts[0].ID, nil)
 	if err != nil {
 		t.Fatal("GetConcept", err)
 	}
